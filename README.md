@@ -4,26 +4,39 @@ I am a full stack web developer that enjoys working on backend API's and complex
 
 💻 Projects:
 Co-Make App
+
 Better Professor App
+
 Droom-3 App
 
 💡 Skills:
+
 Frontend: React, Redux, CSS-in-JS, JavaScript, HTML, LESS/SASS
+
 Backend: Node.js, PostgreSQL, Express, Knex, MongoDB
+
 Test-Driven Development and Agile Methodology
+
 Object oriented programming with Python
+
 Experience working with and mentoring remote teams
 
 👷 Currently Building:
+
 A full stack Shopping app using React, Redux, Node, Express and MongoDB.
+
 A PERN Stack App
 
 🏫 Currently Learning:
+
 Payment Processing using Stripe
+
 Docker
 
 💬 Ask me about:
+
 Full Stack Application Development
+
 API Development
 
 
