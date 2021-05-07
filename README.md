@@ -1,9 +1,7 @@
-### Hi, I'm Mosharraf Musa 👋
+Hi, I'm Mosharraf Musa 👋
+
 I am a full stack web developer that enjoys working on backend API's and complex frontend state management. I'm currently looking for a new role and am open to collaborating on projects!
 
-
-<!--
-**MosharrafMusa/MosharrafMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💻 Projects:
 Co-Make App
 Better Professor App
@@ -14,6 +12,10 @@ Backend: Node.js, PostgreSQL, Express, Knex, MongoDB
 Test-Driven Development and Agile Methodology
 Object oriented programming with Python 
 Experience working with and mentoring remote teams
+<!--
+**MosharrafMusa/MosharrafMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
