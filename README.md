@@ -19,17 +19,10 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 
 ## My Team Collaborated Projects 💻
 
-- <h5><a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a></h5>
-- Node | Express | PostgreSQL | JWT - July 2020
-- Help neibours to solve their local issues
+- <h4><a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a></h4> - Help neibours to solve their local issues
+- <h4><a href="https://github.com/better-prof1">Better Professor App</a></h4> - Help Professors remember student's deadline
+- <h4><a href="https://droom-mosharraf.netlify.app/">Droom-3 App</a></h4> - A job serach app
 
-- <h5><a href="https://github.com/better-prof1">Better Professor App</a></h5>
-- React | Redux | Jest - May 2020
-- Web app to simplify the task of professors remember important dates and deadlines for students projects.
-
-- <h5><a href="https://droom-mosharraf.netlify.app/">Droom-3 App</a></h5>
-- HTML5 | CSS3| LESS| JS - March 2020x
-- Droom-3 is a job search app help job seeker to find and apply their dream jobs .
   <br/>
 
 ## Connect with me:
