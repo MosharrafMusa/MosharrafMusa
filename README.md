@@ -10,16 +10,30 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 
 ## My Skills 💡
 
-Frontend: React, Redux, CSS-in-JS, JavaScript, HTML, LESS/SASS
-Backend: Node.js, PostgreSQL, Express, Knex, MongoDB
-Test-Driven Development and Agile Methodology
-Object oriented programming with Python
-Experience working with and mentoring remote teams
+<ul>
+<li><strong>Frontend:</strong> React, Redux, CSS-in-JS, JavaScript, HTML, LESS/SASS</li> <br/>
+<li><strong>Backend:</strong> Node.js, PostgreSQL, Express, Knex, MongoDB </li> <br/>
+<li>Test-Driven Development and Agile Methodology </li><br/>
+<li>Object oriented programming with Python </li><br/>
+<li>Experience working with and mentoring remote teams</li>
+</ul>
+
+<br/>
 
 ## My Team Collaborated Projects 💻
 
-<h3>Co-Make App </h3>
-<p>
+<h4>Co-Make App</h4>
+<h5>Node | Express | PostgreSQL | JWT</h5>
+<p>An app that allow neighbors to post, share, comments local issues to draw attention and solved by local responsible authority.</p>
+
+<h4>Better Professor App</h4>
+<h5>React | Redux | Jest</h5>
+<p>Web app to simplify the task of professors remember important dates and deadlines for students projects.</p>
+
+<h4>Droom-3 App</h4>
+<h5>HTML5 | CSS3| LESS| JS</h5>
+<p>Droom-3 is a job search app help job seeker to find and apply their dream jobs .
+</p>
 
 ## Connect with me:
 
@@ -39,10 +53,8 @@ Experience working with and mentoring remote teams
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
