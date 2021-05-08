@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-daniel/)](https://www.linkedin.com/in/jess-daniel/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-success)](https://www.michaeljdaniel.com)
 
-<br/>
 I'm a Full Stack Web Developer that enjoys working on backend API's and complex frontend state management. I'm currently looking for a new role and am open to collaborating on projects!
 
 - 🔭 I'm building a MERN stack and a PERN stack app
@@ -10,7 +9,6 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 - 👯 I’m looking to collaborate with other building web application
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read good books and have a nice evening with my family
-  <br/>
 
 ## My Skills 💡
 
