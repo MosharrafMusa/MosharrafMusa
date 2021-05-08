@@ -1,6 +1,6 @@
 # Hi there, I'm Mosharraf Musa 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-daniel/)](https://www.linkedin.com/in/jess-daniel/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-success)](https://www.michaeljdaniel.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mosharrafmusa/)](https://www.linkedin.com/in/mosharrafmusa/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-success)](https://www.mosharrafmusa.com)
 
 I'm a Full Stack Web Developer that enjoys working on backend API's and complex frontend state management. I'm currently looking for a new role and am open to collaborating on projects!
 
@@ -21,18 +21,9 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 
 ## My Team Collaborated Projects 💻
 
-- <h3><a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a> - Help neibours solving local issues</h3>
-- <h3><a href="https://github.com/better-prof1">Better Professor App</a> - Help Professors remember student's deadline</h3>
-- <h3><a href="https://droom-mosharraf.netlify.app/">Droom-3 App</a> - Help finding and applying jobs </h3>
-
-  <br/>
-
-## Connect with me:
-
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-
-<a href="https://www.linkedin.com/in/mosharrafmusa/"><img align="left" alt="mosharrafmusa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+- <a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a> - Help neibours solving local issues
+- <a href="https://github.com/better-prof1">Better Professor App</a> - Help Professors remember student's deadline
+- <a href="https://droom-mosharraf.netlify.app/">Droom-3 App</a> - Help finding and applying jobs
 
 <br />
 
