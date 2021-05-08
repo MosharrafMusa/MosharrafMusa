@@ -21,7 +21,7 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 
 - <h5><a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a></h5>
 - Node | Express | PostgreSQL | JWT - July 2020
-- An app that allow neighbors to post, share, comments local issues to draw attention and solved by local responsible authority.
+- Help neibours to solve their local issues
 
 - <h5><a href="https://github.com/better-prof1">Better Professor App</a></h5>
 - React | Redux | Jest - May 2020
