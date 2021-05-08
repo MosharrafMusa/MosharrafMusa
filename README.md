@@ -3,7 +3,7 @@
 <a href="https://mosharrafmusa.com/"><img align="left" alt="mosharrafmusa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/MosharrafMusa"><img align="left" alt="mosharrafmusa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/mosharrafmusa/"><img align="left" alt="mosharrafmusa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
+<br/>
 I'm a Full Stack Web Developer that enjoys working on backend API's and complex frontend state management. I'm currently looking for a new role and am open to collaborating on projects!
 
 - 🔭 I'm building a MERN stack and a PERN stack app
@@ -11,6 +11,7 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 - 👯 I’m looking to collaborate with other building web application
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read good books and have a nice evening with my family
+  <br/>
 
 ## My Skills 💡
 
