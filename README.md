@@ -19,19 +19,19 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 
 ## My Team Collaborated Projects 💻
 
-- <h4><a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a> - Help neibours to solve their local issues</h4>
-- <h4><a href="https://github.com/better-prof1">Better Professor App</a> - Help Professors remember student's deadline</h4>
-- <h4><a href="https://droom-mosharraf.netlify.app/">Droom-3 App</a> - A job serach app </h4>
+- <h3><a href="https://github.com/BW-CoMake/Back-end/tree/Mosharraf-Musa">Co-Make App</a> - Help neibours solving local issues</h3>
+- <h3><a href="https://github.com/better-prof1">Better Professor App</a> - Help Professors remember student's deadline</h3>
+- <h3><a href="https://droom-mosharraf.netlify.app/">Droom-3 App</a> - Help finding and applying jobs </h3>
 
   <br/>
 
 ## Connect with me:
 
-[<img align="left" alt="mosharrafmusa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" alt="mosharrafmusa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
