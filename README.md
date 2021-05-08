@@ -10,13 +10,11 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 
 ## My Skills 💡
 
-<ul>
-<li><strong>Frontend:</strong> React, Redux, CSS-in-JS, JavaScript, HTML, LESS/SASS</li> <br/>
-<li><strong>Backend:</strong> Node.js, PostgreSQL, Express, Knex, MongoDB </li> <br/>
-<li>Test-Driven Development and Agile Methodology </li><br/>
-<li>Object oriented programming with Python </li><br/>
-<li>Experience working with and mentoring remote teams</li>
-</ul>
+- <strong>Frontend:</strong> React, Redux, CSS-in-JS, JavaScript, HTML, LESS/SASS
+- <strong>Backend:</strong> Node.js, PostgreSQL, Express, Knex, MongoDB
+- Test-Driven Development and Agile Methodology
+- Object oriented programming with Python
+- Experience working with and mentor remote teams
 
 <br/>
 
@@ -59,7 +57,7 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
