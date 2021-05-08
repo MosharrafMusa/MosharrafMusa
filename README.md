@@ -1,8 +1,7 @@
 # Hi there, I'm Mosharraf Musa 👋
 
-<a href="https://mosharrafmusa.com/"><img align="left" alt="mosharrafmusa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/MosharrafMusa"><img align="left" alt="mosharrafmusa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/mosharrafmusa/"><img align="left" alt="mosharrafmusa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-daniel/)](https://www.linkedin.com/in/jess-daniel/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-success)](https://www.michaeljdaniel.com)
+
 <br/>
 I'm a Full Stack Web Developer that enjoys working on backend API's and complex frontend state management. I'm currently looking for a new role and am open to collaborating on projects!
 
@@ -59,7 +58,9 @@ I'm a Full Stack Web Developer that enjoys working on backend API's and complex 
 <!--
 https://www.youtube.com/watch?v=ECuqb5Tv9qI
 **MosharrafMusa/MosharrafMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://mosharrafmusa.com/"><img align="left" alt="mosharrafmusa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://twitter.com/MosharrafMusa"><img align="left" alt="mosharrafmusa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/mosharrafmusa/"><img align="left" alt="mosharrafmusa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 Here are some ideas to get you started:
